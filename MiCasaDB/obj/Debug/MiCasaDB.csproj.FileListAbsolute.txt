@@ -1,0 +1,14 @@
+c:\users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\bin\Debug\MiCasaDB.exe.config
+c:\users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\bin\Debug\MiCasaDB.exe
+c:\users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\bin\Debug\MiCasaDB.pdb
+c:\users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\obj\Debug\MiCasaDB.csprojAssemblyReference.cache
+c:\users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\obj\Debug\MiCasaDB.csproj.CoreCompileInputs.cache
+c:\users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\obj\Debug\MiCasaDB.exe
+c:\users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\obj\Debug\MiCasaDB.pdb
+C:\Users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\bin\Debug\MySql.Data.dll
+C:\Users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\bin\Debug\MySql.Web.dll
+C:\Users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\bin\Debug\Google.Protobuf.dll
+C:\Users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\bin\Debug\MySql.Data.xml
+C:\Users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\bin\Debug\MySql.Web.xml
+C:\Users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\obj\Debug\MiCasaDB.csproj.CopyComplete
+C:\Users\doreliyahu\source\repos\MiCasaDB\MiCasaDB\bin\Debug\Newtonsoft.Json.dll
